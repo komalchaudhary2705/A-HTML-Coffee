@@ -28,6 +28,9 @@
     color: var(--white-color);
     margin-right: 20px;
   }
+  .navbar .logo {
+    margin-left: 20px;
+  }
   .navbar .nav-menu {
     display: block;
     position: fixed;
@@ -62,7 +65,7 @@
   .hero-section .hero-details :is(.subtitle, .description) {
     max-width: 100%;
   }
-  .hero-section .hero-details .buttons{
+  .hero-section .hero-details .buttons {
     justify-content: center;
   }
   .hero-section .hero-image-wrapper {
